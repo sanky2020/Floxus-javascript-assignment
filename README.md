@@ -13,7 +13,7 @@ How to find?…
 
 
 Solution:
-1) ageTableID = document.querySelector("#age-table") <br>
+1) ageTableID = document.querySelector("#age-table") 
 2) labels = document.getElementById("age-table").querySelectorAll("label")
 3) firstTdWithAge = document.getElementById("age-table").querySelector("td")
 4) nameSearchForm = document.querySelector("form")
